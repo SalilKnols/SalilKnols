@@ -24,7 +24,7 @@
 
 
 ### Hey There!
-### Here is Something not much usefull about me.!  
+### Here is Something not much useful about me.!  
   
   
 
@@ -34,10 +34,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Making some mini project for my college.  
+- 🔭 Intern at Knoldus Inc.  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithm  
+- 🌱 Have some good anime ? send them to me.
 
 
 </td><td valign="top" width="50%">
@@ -69,11 +69,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salillaser&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Salilknols&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salillaser&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalilKnols&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
@@ -83,7 +83,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=salillaser&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=SalilKnols&&style=flat-square)  
   
 
 <br/>  
