@@ -34,7 +34,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Intern at Knoldus Inc.  
+- 🔭 Software Consultant at Knoldus Inc.  
   
 
 - 🌱 Have some good anime ? send them to me.
